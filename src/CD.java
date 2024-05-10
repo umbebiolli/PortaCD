@@ -7,7 +7,7 @@ public class CD {
     public CD() {
 
     }
-
+    // molto utile
     public CD(String titolo, String autore, int numeroBrani, int durata) {
         this.titolo = titolo;
         this.autore = autore;
