@@ -51,7 +51,7 @@ public class PortaCD {
         }
     }
 
-    // ca
+    // ciao
     public int getNumMaxDischi() {
         return max_num_cd;
     }
